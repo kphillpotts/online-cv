@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
+title: Kym Phillpotts CV
+url: 'https://kymphillpotts.com' # your website URL, e.g., https://example.com
 
 #change it according to your repository name
 # disabling since we are using a custom domain
