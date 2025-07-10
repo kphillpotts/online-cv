@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False  # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Kym Phillpotts
@@ -56,31 +56,21 @@ sidebar:
       link:
     - item: Cycling
       link:
-    - item: Gaming
+    - item: 3d Printing
       link:
-    - item: 3D Printing
+    - item: Gaming
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    I am senior development leader,
-    with over 20 years experience
-    delivering solutions to local and
-    international clients across a wide
-    range of industries from Technology, Health,
-    Finance, Information Security
-    through to Training and Process
-    improvements.
+    I am senior development leader, with over 30 years experience delivering solutions to local and
+    international clients across a wide range of industries from Technology, Health, Finance, Information Security
+    through to Training and Process improvements.
 
-    I'm a natural communicator and
-    community builder, skilled at
-    creating connections between
-    developers, customers and
-    stakeholders to introduce new
-    technologies and deliver creative
-    solutions.
+    I'm a natural communicator and community builder, skilled at creating connections between developers, customers and
+    stakeholders to introduce new technologies and deliver creative solutions.
 
 education:
   title: Education
@@ -88,31 +78,31 @@ education:
   - degree: BA Computer Studies
     university: University of Canberra
     time: 1990 - 1994
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    # details: |
+    #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #   pretium quis, sem.
+    #     - Bullet point
+    #     - Bullet point
   - degree: Cert IV Training and Assessment
     university: RMIT University
     time: 2006
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    # details: |
+    #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #   pretium quis, sem.
+    #     - Bullet point
+    #     - Bullet point
 
 experiences:
   title: Experiences
   info:
   - role: Senior Technical Program Manager
-    time: 2016 - Present
+    time: 2023 - Present
     company: Microsoft, Switzerland
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -126,6 +116,24 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
+
+  - role: Senior Content Developer
+    time: 2016 - 2022
+    company: Microsoft, Australia (Melbourne)
+    details: |
+      Established the Learn Live brand as the channel for live instructor led training for
+      Microsoft Learn Content.
+        - Created tooling and standard procedures for preparing presenters, creating training resources, and established best practices for production and delivery of online material.
+        - Produced Learn Live sessions for Ignite and Build conferences
+        - Delivered a standardized and trackable engagement point for Content and Learning to engage with Operations to provide ongoing business priority workstreams.
+    skills: |
+      - Training
+      - Program Management
+      - Xamarin Mobile Development
+      - Azure developers
+      - Live Streaming (OBS)
+      - PowerApps
+
   - role: Senior Mobile Development Instructor
     time: 2015 - 2016
     company: Xamarin, Melbourne (Remote)
@@ -135,72 +143,128 @@ experiences:
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Presented live instructor led training to developrs seeking certification with Xamarin technologies (average review score 94..6%)
+        - Conduct consulting style office hours with students to reinforce material and advise on successful delivery of their apps.
+        - Deliver online Webinars and live in-person classroom training.
+
+  - role: Development Manager
+    time: 2007 - 2015
+    company: Fred IT Group, Melbourne
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Technical lead for the successful eRx Express mobile App using Xamarin across iOS, Android, WP8 and WinRT. This App won a highly regarded industry innovation award.
+        - Development lead for the FredNXT Office Windows Store App. A mobile consumer interface to Dynamics AX backend for ordering, invoicing, product and POS services
+        - Led the adoption of Agile practices by coaching and mentoring the development team and the broader organization
+        - Technical lead for the industry defining Fred Office Pharmacy solution
+
+  - role: Xamarin Mobile Developer
+    time: AUG 2014 - DEC 2014
+    company: Xamling Consulting, Melbourne
+    details: |
+        - Porting of the Project Tripod WP8 App to the Xamarin.Forms platform for iOS and Android
+        - Project Tripod is a UI intensive timelapse photography app requiring heavy use of Custom Renderers and Cross Platform coding techniques.
+
+  - role: Technical Lead / Coach 
+    time: SEP 2004 - JAN 2007
+    company: Liberty Financial, Melbourne
+    details: |
+      - Mentored and coached the software development team, delivering productivity gains and enhanced agile development skills and coding techniques
+      - Technical lead and senior developer working on numerous C# projects throughout the project lifecycle from project scope through to developing and delivering production systems.
+
+  - role: Product Consultant / Evangelist
+    time: FEB 2002 - SEP 2004
+    company: SecureNet, Melbourne
+    details: |
+      - Lead developer on a large scale Identity Management, Single Sign On and PKI based security framework. The framework services include user authentication, digital signing, smartcard certificate management and delegated administration
+      - Technical pre sales and “Evangelism” of the Security Framework, and then consulting and coaching development teams to assist them leverage the framework into their existing applications.
+
+  - role: Senior Developer
+    time: MAR 2000 - FEB 2002
+    company: ANZ Bank, Melbourne
+    details: |
+      - Senior member of an R&D group that pioneered work on the banks PKI and web based security methodology. This research led to a full production system and eventually to the sale of the intellectual property to a third party private company for commercialisation.
+
+  - role: Senior Developer
+    time: APR 1998 - JAN 1999
+    company: Greenwich Natwest Bank, London, UK
+    details: |
+      - Design and development - including user interface (VB), business components (ActiveX DLL), and database (SQL Server) elements of the system
+
+  - role: Software Developer
+    time: APR 1997 - NOV 1997
+    company: Reuters / Citibank, London, UK
+    details: |
+      - Designed and developed a fast, flexible and easy to use interface for clients to search, browse, and reconcile real time deal data, which was packaged into a reusable package that was used in numerous other applications.
+
+  - role: Microsoft Certified Trainer
+    time: Feb 1995 - Dec 1996
+    company: ImageWord, Canberra
+    details: |
+      - As a Microsoft Certified Trainer delivered Microsoft Official Curriculum Courses to local and International students (Visual Basic, Access and Windows Operating Systems and Services Architecture)
+      - Presented technical session at Microsoft Tech-Ed ’95 on advanced Word techniques and Word Basic Development including integration of ODBC services.
+
+  - role: Developer
+    time: Feb 1995 - Dec 1996
+    company: Dept. Human Services and Health, Canberra
+    details: |
+      - Provide integrations to the departments mainframe NOMAD personnel system to produce management reports as well as maintenance and enhancements of the production HACC system
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: Microsoft Certified - Azure AI Fundamentals
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    start: 2024
+    #end: 2021
+    # credentialid: 111-222
+    # credentialurl: www.google.com
+    # credentialname: Google
+    # details: |
+    #   Details about cert. Lorem ipsum dolor sit amet, consectetur
+    #   adipiscing elit.
+    #   Nullam eget orci purus. Nullam ultrices neque nibh.
+    #   Aenean fermentum, felis vulputate suscipit accumsan,
+    #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #   Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
+    #   Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+    #   fringilla vel. Ut euismod, sem sed vulputate venenatis,
+    #   justo diam viverra velit, sed rhoncus leo leo eu justo.
+    #   Suspendisse placerat risus ante, sed porta nisi blandit at.
+
+  - name: Microsoft Certified - Azure Fundamentals
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    start: 2020
+
+  - name: Microsoft Certified - Azure Developer Associate
+    organization: Microsoft
+    start: 2019
+
+  - name: Microsoft Certified Aplication Developer - .NET
+    organization: Microsoft
+    start: 2006
+
+  - name: Microsoft Certified Trainer (MCT)
+    organization: Microsoft
+    start: 2006
+
+  - name: Certified Scrum Master (CSM)
+    organization: Scrum Alliance
+    start: 2009
+
 
 projects:
-  title: Projects
+  title: Projects & Apps
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Weekly Xamarin
+    link: "https://weeklyxamarin.github.io/website/"
+    tagline: "A weekly round up of all the latest Xamarin news for developers. Mobile App"
 
   - title: DevStudio
-    link: "#"
+    link: "https://www.babyzeichen.info/Shop.148.0.html#c1505"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
   - title: Tempo
@@ -215,62 +279,62 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
 
-      He is a great employee!
+#       He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
