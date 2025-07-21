@@ -9,7 +9,11 @@ sidebar:
 
   # Profile information
   name: Kym Phillpotts
-  tagline: Senior Technical Program Manager
+  tagline: |
+    Senior TPM |
+    AI Platforms, Developer Tooling & Scalable Content Systems |
+    Driving Automation & Innovation |
+    Ex-Microsoft
   location: Geneva, Switzerland # Enter your location here, e.g., San
   avatar: kp.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -65,12 +69,17 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am senior development leader, with over 30 years experience delivering solutions to local and
-    international clients across a wide range of industries from Technology, Health, Finance, Information Security
-    through to Training and Process improvements.
 
-    I'm a natural communicator and community builder, skilled at creating connections between developers, customers and
-    stakeholders to introduce new technologies and deliver creative solutions.
+    I'm a senior technical leader and program manager with 30+ years of experience delivering solutions that bridge the gap between technology, content, and community. At Microsoft, I led high-impact AI and automation programs across global teams — helping scale developer ecosystems and learning platforms that serve millions.
+
+    My sweet spot is where innovation meets execution. Whether in technology, education, healthcare, or financial services, I bring strategic thinking and hands-on delivery to every initiative. I align stakeholders, empower teams, and deliver AI-driven solutions with measurable, real-world impact.
+
+    A natural connector between developers, business leaders, and users, I thrive in environments that demand both technical fluency and a human touch. I care deeply about inclusion, accessibility, and the long-term sustainability of platforms and communities.
+
+    Before program management, I was a developer, instructor, and agile mentor — experiences that continue to shape how I lead, structure solutions, and tell compelling stories through data and documentation.
+
+    🎯 Open to leadership roles in AI, EdTech, or platform management. Let's connect if you're building something with purpose.
+
 
 education:
   title: Education
@@ -304,30 +313,30 @@ certifications:
     start: 2009
 
 
-projects:
-  title: Projects & Apps
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Weekly Xamarin
-    link: "https://weeklyxamarin.github.io/website/"
-    tagline: "A weekly round up of all the latest Xamarin news for developers. Mobile App"
+# projects:
+#   title: Projects & Apps
+#   intro: >
+#     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   assignments:
+#   - title: Weekly Xamarin
+#     link: "https://weeklyxamarin.github.io/website/"
+#     tagline: "A weekly round up of all the latest Xamarin news for developers. Mobile App"
 
-  - title: DevStudio
-    link: "https://www.babyzeichen.info/Shop.148.0.html#c1505"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+#   - title: DevStudio
+#     link: "https://www.babyzeichen.info/Shop.148.0.html#c1505"
+#     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #   title: OSS Contributions
@@ -390,23 +399,29 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+    - name: Program Leadership & Strategy
+      level: 95%
+    - name: Agile Delivery & Transformation
+      level: 90%
+    - name: Cross-functional Team Leadership
+      level: 90%
+    - name: Developer Education & Training
+      level: 85%
+    - name: Microsoft Azure Ecosystem
+      level: 85%
+    - name: Azure DevOps
+      level: 90%
+    - name: PowerApps / Power Platform
+      level: 80%
+    - name: AI Services
+      level: 75%
+    - name: Mobile App Development (Cross-platform)
+      level: 85%
+    - name: Community Engagement & Developer Advocacy
+      level: 85%
+    - name: Process Improvement / Workflow Automation
+      level: 90%
 
 footer: >
-#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i>
+#   by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
