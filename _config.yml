@@ -8,7 +8,7 @@ url: 'https://kymphillpotts.com' # your website URL, e.g., https://example.com
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: A beautiful Jekyll theme for creating resume
+description: Who is this Kym Phillpotts person? | Senior Technical Program Manager | AI Platforms, Developer Tooling & Scalable Content Systems | Driving Automation & Innovation | Microsoft TPM
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic teal oceanstale
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
