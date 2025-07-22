@@ -58,7 +58,7 @@ sidebar:
     info:
     - item: Travel
       link:
-    - item: Bicycle TouringCycling
+    - item: Bicycle Touring
       link:
     - item: 3d Printing
       link:
@@ -407,12 +407,8 @@ skills:
       level: 90%
     - name: Developer Education & Training
       level: 85%
-    - name: Microsoft Azure Ecosystem
-      level: 85%
     - name: Azure DevOps
       level: 90%
-    - name: PowerApps / Power Platform
-      level: 80%
     - name: AI Services
       level: 75%
     - name: Mobile App Development (Cross-platform)
