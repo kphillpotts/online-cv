@@ -15,30 +15,30 @@ sidebar:
     Driving Automation & Innovation |
     Microsoft TPM
   location: Geneva, Switzerland # Enter your location here, e.g., San
-  avatar: kp.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: kp2.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: kphillpotts@gmail.com
   #phone: 012 345 6789
   #  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Australian
   website: https://kymphillpotts.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: kymphillpotts
   #xing: alandoe
   github: kphillpotts
+  citizenship: Australian
   #youtube: kymphillpotts
   #telegram: # add your nickname without '@' sign
   #gitlab:
   #bitbucket:
   #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@kphillpotts'
+  #twitter: '@kphillpotts'
   #stack-overflow: # Number/Username, e.g. 123456/alandoe
   #codewars:
   #goodreads: # Number-Username, e.g. 123456-alandoe
   #mastodon: # Please include your full Mastodon link here.
   #hackerrank: # Please provide your HackerRank username.
   #leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  #pdf: pdf.com # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 
   languages:
