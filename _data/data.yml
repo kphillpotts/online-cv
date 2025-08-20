@@ -105,15 +105,15 @@ experiences:
     company: Microsoft, Switzerland (Geneva)
     details: |
 
-      Drove cross-functional product and program initiatives within the Contributor Experience group on the Microsoft Learn platform, supporting the tools, services, and workflows that enable content creation, publishing, and governance across Microsoft's global documentation and education ecosystem. The platform serves millions of monthly views and underpins AI-powered answer generation for several flagship Microsoft products.
+      Led cross-functional initiatives within the Contributor Experience group on the Microsoft Learn platform (millions of monthly users), building tools, services, and workflows that power global content creation, publishing, and governance. Work underpins AI-powered answer generation across flagship Microsoft products.
 
-      - Led design and rollout of an AI-powered editorial review system for Azure documentation using programmatic rules and Azure OpenAI. Reduced manual review time by 25% across 10,000+ annual PRs, improved consistency, and enhanced contributor satisfaction by minimizing arbitrary rejections.
+      - Spearheaded the launch of an AI-powered editorial review system for Azure documentation, reducing manual review time by 25% across 10,000+ annual PRs while improving consistency and contributor satisfaction.
 
-      - Delivered the Automated Publishing Service for Microsoft Learn - a platform-wide capability that replaced manual publishing for both vendors and repository owners. Eliminated 80% of manual effort across 25+ GitHub repositories, enabled teams to shift from weekly/monthly cadences to daily releases, and introduced BI dashboards for real-time publishing visibility and compliance.
+      - Delivered a platform-wide Automated Publishing Service that eliminated 80% of manual publishing effort across 30+ GitHub repositories, driving automation and operational efficiency, accelerating release cycles from weekly/monthly to daily, and introducing BI dashboards for real-time publishing visibility and compliance.
 
-      - Architected and launched an AI-powered feedback triage system using PowerApps, integrating translation, sentiment analysis, and profanity filtering. Replaced fragmented GitHub-based feedback workflows with a centralized platform processing 120,000+ entries (~8,000 per day) from thousands of users, cutting triage time from weeks to hours and enabling faster, more consistent action by content and product teams.
+      - Engineered an AI-driven feedback triage system (PowerApps) integrating translation, sentiment analysis, and profanity filtering; centralized 120,000+ annual entries (~8,000/day) and cut triage time from weeks to hours, enabling faster product and content improvements.
 
-      - Drove collaboration across globally distributed engineering and business teams in the US, China, India, and Europe to deliver AI-driven publishing and editorial systems on schedule. Overcame timezone and cultural barriers through adaptive communication and requirements clarity - earning praise for cross-team leadership and stakeholder trust.
+      - Unified globally distributed engineering teams (US, China, India, Europe) to deliver AI-driven editorial and publishing systems on schedule, strengthening stakeholder alignment and accelerating delivery despite timezone and cultural barriers.
 
   - role: Senior Content Developer
     time: Jul 2016 - Dec 2022
