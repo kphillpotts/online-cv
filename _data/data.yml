@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False  # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Kym Phillpotts
@@ -166,7 +166,6 @@ priorexperiences:
   title: Prior Experiences
   info:
   - role: #Previous Roles
-    time: 1994 - 2014
     details: |
       - **Contract Xamarin Mobile Developer - Xamling Consulting, Melbourne (2014)**
       Ported Project Tripod timelapse photography app to Xamarin.Forms for iOS/Android.
@@ -410,27 +409,24 @@ certifications:
 #       He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills
+  categories:
+    - name: Leadership & Delivery
+      toolset:
+        - name: Program Strategy
+        - name: Agile Transformation
+        - name: Cross-functional teams
+    - name: Technical Expertise
+      toolset:
+        - name: Azure DevOps
+        - name: AI Services
+        - name: Mobile App Development
+        - name: Power Platform
+    - name: Engagement & Enablement
+      toolset:
+        - name: Developer Advocacy
+        - name: Community Building
 
-  toolset:
-    - name: Program Leadership & Strategy
-      level: 95%
-    - name: Agile Delivery & Transformation
-      level: 90%
-    - name: Cross-functional Team Leadership
-      level: 90%
-    - name: Developer Education & Training
-      level: 85%
-    - name: Azure DevOps
-      level: 90%
-    - name: AI Services
-      level: 75%
-    - name: Mobile App Development (Cross-platform)
-      level: 85%
-    - name: Community Engagement & Developer Advocacy
-      level: 85%
-    - name: Process Improvement / Workflow Automation
-      level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i>
