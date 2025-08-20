@@ -46,9 +46,16 @@
     -webkit-print-color-adjust: exact;
   }
 
-  .fa-inverse,
-  .fa-inverse:after,
-  .fa-inverse:before {
-    color: #ffffff !important;
-  }
+   .fa-inverse,
+   .fa-inverse:after,
+   .fa-inverse:before {
+     color: #ffffff !important;
+   }
+
+    /* Hide buttons when printing */
+    .print-button,
+    .pdf-button,
+    .d-print-none {
+        display: none !important;
+    }
 }
