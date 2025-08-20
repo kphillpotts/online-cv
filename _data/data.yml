@@ -162,88 +162,123 @@ experiences:
 
       - Transformed delivery processes by championing Agile adoption across the team and broader organization, coaching developers and stakeholders to accelerate release cycles and strengthen cross-team collaboration. 
 
-  - role: Contract Xamarin Mobile Developer
-    time: Aug 2014 - Dec 2014
-    company: Xamling Consulting, Contract - Australia (Melbourne)
+priorexperiences:
+  title: Prior Experiences
+  info:
+  - role: #Previous Roles
+    time: 1994 - 2014
     details: |
-        - Porting of the Project Tripod WP8 App to the Xamarin.Forms platform for iOS and Android
-        - Project Tripod is a UI intensive timelapse photography app requiring heavy use of Custom Renderers and Cross Platform coding techniques.
+      - **Contract Xamarin Mobile Developer - Xamling Consulting, Melbourne (2014)**
+      Ported Project Tripod timelapse photography app to Xamarin.Forms for iOS/Android.
 
-  - role: Technical Lead / Coach 
-    time: Sep 2004 - Jan 2007
-    company: Liberty Financial, Melbourne
-    details: |
-      Liberty Financial is a leading non-bank lender in Australia and New Zealand, offering innovative, flexible home, car, personal, and business loans.
+      - **Technical Lead / Coach - Liberty Financial, Melbourne (2004 - 2007)**
+      Guided Agile adoption and delivered C# systems supporting lending operations.
 
-      - Mentored and coached the software development team, accelerating their adoption of Agile processes and advanced coding practices, which yielded measurable productivity gains and improved delivery quality.
+      - **Product Consultant / Evangelist - SecureNet, Melbourne (2002 - 2004)**
+      Designed enterprise PKI/identity solutions (SSO, smart cards) for clients incl. ANZ Bank.
 
-      - Led full lifecycle development of multiple C# applications, driving architectural decisions and delivering production systems that supported critical business functions.
+      - **Senior Developer - ANZ Bank, Melbourne (2000 - 2002)**
+      Built PKI and online banking security systems; contributed to IP later commercialized.
 
-  - role: Product Consultant / Evangelist
-    time: Feb 2002 - Sep 2004
-    company: SecureNet, Melbourne
-    details: |
-      A specialist cybersecurity provider in the Asia-Pacific region, SecureNet offered enterprise-grade identity management, PKI, single sign-on (SSO), and certificate authority services — including major contracts like a PKI/Identrus system for ANZ Bank
+      - **Senior Developer (Contract) - Greenwich NatWest Bank, London (1998 - 1999)**
+      Developed modular banking systems in VB/SQL Server to improve transaction processing.
 
-      - Served as lead developer and technical consultant on large-scale identity management and PKI systems, driving the architecture and deployment of SSO, digital signing, smart-card certificate management, and delegated administration frameworks.
+      - **Software Developer (Contract) - Reuters / Citibank, London (1997)**
+      Created reusable real-time deal data interface adopted across multiple applications.
 
-      - Led pre-sales and developer engagement, delivering technical demos, workshops, and training to help internal teams and clients integrate SecureNet's security framework into their applications.
+      - **Microsoft Certified Trainer - ImageWord, Canberra (1995 - 1996)**
+      Delivered Microsoft Official Curriculum courses; presented at Microsoft Tech-Ed '95.
+
+      - **Developer - Dept. of Human Services & Health, Canberra (1994 - 1995)**
+      Integrated mainframe personnel systems with reporting tools and maintained HACC system.
+
+
+
+
+
+### REMOVED AND SUMMARISED ABOVE ###
+  # - role: Contract Xamarin Mobile Developer
+  #   time: Aug 2014 - Dec 2014
+  #   company: Xamling Consulting, Contract - Australia (Melbourne)
+  #   details: |
+  #       - Porting of the Project Tripod WP8 App to the Xamarin.Forms platform for iOS and Android
+  #       - Project Tripod is a UI intensive timelapse photography app requiring heavy use of Custom Renderers and Cross Platform coding techniques.
+
+  # - role: Technical Lead / Coach 
+  #   time: Sep 2004 - Jan 2007
+  #   company: Liberty Financial, Melbourne
+  #   details: |
+  #     Liberty Financial is a leading non-bank lender in Australia and New Zealand, offering innovative, flexible home, car, personal, and business loans.
+
+  #     - Mentored and coached the software development team, accelerating their adoption of Agile processes and advanced coding practices, which yielded measurable productivity gains and improved delivery quality.
+
+  #     - Led full lifecycle development of multiple C# applications, driving architectural decisions and delivering production systems that supported critical business functions.
+
+  # - role: Product Consultant / Evangelist
+  #   time: Feb 2002 - Sep 2004
+  #   company: SecureNet, Melbourne
+  #   details: |
+  #     A specialist cybersecurity provider in the Asia-Pacific region, SecureNet offered enterprise-grade identity management, PKI, single sign-on (SSO), and certificate authority services — including major contracts like a PKI/Identrus system for ANZ Bank
+
+  #     - Served as lead developer and technical consultant on large-scale identity management and PKI systems, driving the architecture and deployment of SSO, digital signing, smart-card certificate management, and delegated administration frameworks.
+
+  #     - Led pre-sales and developer engagement, delivering technical demos, workshops, and training to help internal teams and clients integrate SecureNet's security framework into their applications.
   
-      - Coached development teams on secure authentication implementations, accelerating their adoption of PKI and security best practices and enhancing overall solution robustness.
+  #     - Coached development teams on secure authentication implementations, accelerating their adoption of PKI and security best practices and enhancing overall solution robustness.
 
-  - role: Senior Developer
-    time: Mar 2000 - Feb 2002
-    company: ANZ Bank, Melbourne
-    details: |
-      Spearheaded R&D initiatives in PKI and web security at ANZ Bank, one of Australia's largest banks, focusing on secure online banking and digital identity management.
+  # - role: Senior Developer
+  #   time: Mar 2000 - Feb 2002
+  #   company: ANZ Bank, Melbourne
+  #   details: |
+  #     Spearheaded R&D initiatives in PKI and web security at ANZ Bank, one of Australia's largest banks, focusing on secure online banking and digital identity management.
 
-      - Developed early architectures and prototypes that evolved into a full production system supporting secure bank transactions.
+  #     - Developed early architectures and prototypes that evolved into a full production system supporting secure bank transactions.
 
-      - Contributed to the creation of IP that was later sold to a third-party company for commercialization, underscoring the project's innovation and strategic value.
+  #     - Contributed to the creation of IP that was later sold to a third-party company for commercialization, underscoring the project's innovation and strategic value.
 
-      - Collaborated with stakeholders to translate cutting-edge security research into real-world banking applications, significantly enhancing the organization's digital security posture
+  #     - Collaborated with stakeholders to translate cutting-edge security research into real-world banking applications, significantly enhancing the organization's digital security posture
 
-  - role: Senior Developer (Contract)
-    time: Apr 1998 - Jan 1999
-    company: Greenwich Natwest Bank, London, UK
-    details: |
+  # - role: Senior Developer (Contract)
+  #   time: Apr 1998 - Jan 1999
+  #   company: Greenwich Natwest Bank, London, UK
+  #   details: |
 
-      A major division of NatWest Bank, Greenwich Natwest focused on providing financial services to corporate and institutional clients, with a strong emphasis on technology-driven solutions.
+  #     A major division of NatWest Bank, Greenwich Natwest focused on providing financial services to corporate and institutional clients, with a strong emphasis on technology-driven solutions.
 
-      - Designed and developed full-stack banking systems, creating user interfaces in VB, business components via ActiveX DLLs, and backend database structures in SQL Server.
+  #     - Designed and developed full-stack banking systems, creating user interfaces in VB, business components via ActiveX DLLs, and backend database structures in SQL Server.
 
-      - Delivered modular, scalable solutions supporting transaction processing and banking operations, contributing to improved system performance and maintainability.
+  #     - Delivered modular, scalable solutions supporting transaction processing and banking operations, contributing to improved system performance and maintainability.
 
-  - role: Software Developer (Contract)
-    time: Apr 1997 - Nov 1997
-    company: Reuters / Citibank, London, UK
-    details: |
-      A global leader in financial information and analytics, and a major banking institution, respectively, collaborating on client-facing real-time data tools.
+  # - role: Software Developer (Contract)
+  #   time: Apr 1997 - Nov 1997
+  #   company: Reuters / Citibank, London, UK
+  #   details: |
+  #     A global leader in financial information and analytics, and a major banking institution, respectively, collaborating on client-facing real-time data tools.
 
-      - Designed and developed a real-time deal data interface, enabling clients to efficiently search, browse, and reconcile transactions.
+  #     - Designed and developed a real-time deal data interface, enabling clients to efficiently search, browse, and reconcile transactions.
 
-      - Packaged the solution as a reusable component, later adopted across multiple internal applications, supporting enhanced data access and consistency.
+  #     - Packaged the solution as a reusable component, later adopted across multiple internal applications, supporting enhanced data access and consistency.
 
-  - role: Microsoft Certified Trainer
-    time: Feb 1995 - Dec 1996
-    company: ImageWord, Canberra
-    details: |
-      Technology training consultancy delivering Microsoft Official Curriculum (MOC) courses and technical workshops to local and international learners.
+  # - role: Microsoft Certified Trainer
+  #   time: Feb 1995 - Dec 1996
+  #   company: ImageWord, Canberra
+  #   details: |
+  #     Technology training consultancy delivering Microsoft Official Curriculum (MOC) courses and technical workshops to local and international learners.
 
-      - Delivered Microsoft Official Curriculum courses (Visual Basic, Access, Windows OS & Services Architecture) to both local and international audiences, ensuring high-quality technical instruction and learner outcomes.
+  #     - Delivered Microsoft Official Curriculum courses (Visual Basic, Access, Windows OS & Services Architecture) to both local and international audiences, ensuring high-quality technical instruction and learner outcomes.
 
-      - Presented at Microsoft Tech-Ed '95, leading a session on advanced Word techniques and WordBasic development with ODBC integration, showcasing expertise and contributing to the professional development of attendees.
+  #     - Presented at Microsoft Tech-Ed '95, leading a session on advanced Word techniques and WordBasic development with ODBC integration, showcasing expertise and contributing to the professional development of attendees.
 
-  - role: Developer
-    time: Jan 1994 - Jan 1995
-    company: Dept. Human Services and Health, Canberra
-    details: |
+  # - role: Developer
+  #   time: Jan 1994 - Jan 1995
+  #   company: Dept. Human Services and Health, Canberra
+  #   details: |
 
-      Federal agency responsible for delivering health, community, and social services to Australians.
+  #     Federal agency responsible for delivering health, community, and social services to Australians.
 
-      - Integrated legacy mainframe (NOMAD) personnel systems with front-end reporting tools, delivering management reports for departmental leadership.
+  #     - Integrated legacy mainframe (NOMAD) personnel systems with front-end reporting tools, delivering management reports for departmental leadership.
 
-      - Maintained and enhanced the production Home and Community Care (HACC) system, ensuring reliable operation and improving service delivery workflows.
+  #     - Maintained and enhanced the production Home and Community Care (HACC) system, ensuring reliable operation and improving service delivery workflows.
 
 
 certifications:
